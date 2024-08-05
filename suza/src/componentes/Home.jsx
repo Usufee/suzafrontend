@@ -14,7 +14,7 @@ import DownImage from "../assets/img/Maskdown.png";
 import {
   FaArrowRight,
   FaArrowLeft,
-  // FaRegStar, //not filled star
+  // FaRegStar,
   FaChevronRight,
   FaChevronLeft,
   FaStar, //filled star
