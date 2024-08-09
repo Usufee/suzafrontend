@@ -1,12 +1,12 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import Home from "./componentes/Home";
-import AboutUs from "./componentes/AboutUs";
-import Varieties from "./componentes/Varieties";
-import Gallery from "./componentes/Gallery";
-import Reviews from "./componentes/Reviews";
-import Contact from "./componentes/Contact";
-import Story from "./componentes/Story";
+import Home from "./componentes/home/Home";
+import AboutUs from "./componentes/abouts/AboutUs";
+import Varieties from "./componentes/varieties/Varieties";
+import Gallery from "./componentes/Gallery/Gallery";
+import Reviews from "./componentes/review/Reviews";
+import Contact from "./componentes/contacts/Contact";
+import Story from "./componentes/story/Story";
 function App() {
   return (
     <>
